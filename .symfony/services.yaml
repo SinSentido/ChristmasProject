@@ -1,0 +1,4 @@
+db:
+  type: postgresql:12
+  dis: 1024
+  size: S
