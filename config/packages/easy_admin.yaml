@@ -1,0 +1,7 @@
+easy_admin:
+    entities:
+        # List the entity class name you want to manage
+        - App\Entity\Usuario
+        - App\Entity\Libro
+        - App\Entity\Comentario
+        - App\Entity\Categoria
